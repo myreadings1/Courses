@@ -9,3 +9,4 @@
 - DSP Stanford (https://ccrma.stanford.edu/~jos/filters/Definition_Simplest_Low_Pass.html)
 - https://www.dsprelated.com/freebooks/filters/Simplest_Lowpass_Filter.html
 - https://www.dsprelated.com/freebooks/filters/Matlab_Analysis_Simplest_Lowpass.html
+- http://www.labbookpages.co.uk/audio/firWindowing.html

@@ -6,3 +6,4 @@
 - https://www.csie.ntu.edu.tw/~hsinmu/courses/
 - https://www.cs.cmu.edu/~guyb/realworld/
 - Digital signal processing (http://www.dspguide.com/)
+- DSP Stanford (https://ccrma.stanford.edu/~jos/filters/Definition_Simplest_Low_Pass.html)

@@ -5,3 +5,4 @@
 - http://people.cs.nctu.edu.tw/~katelin/courses/wcs16/
 - https://www.csie.ntu.edu.tw/~hsinmu/courses/
 - https://www.cs.cmu.edu/~guyb/realworld/
+- Digital signal processing (http://www.dspguide.com/)

@@ -12,3 +12,4 @@
 - http://www.labbookpages.co.uk/audio/firWindowing.html
 - C++ I/O file (https://courses.cs.vt.edu/cs2604/fall02/binio.html#write) 
 - C++ course (https://courses.cs.vt.edu/cs2604/fall02/)
+- Advace course in communication (http://www.cs.tut.fi/kurssit/TLT-9707/)
